@@ -1,0 +1,1 @@
+postgres_key = "postgres:MyPostSql2day@localhost:5432/etlproj_db"
