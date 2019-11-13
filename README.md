@@ -61,4 +61,4 @@ From brewsjoined_df2 we used the ".tolist()" method to create lists for the Lati
 
 ## Load: the final database, tables/collections, and why this was chosen.
 
-Final step was to transfer thsi data back to Postgres creating a new table called "brewery_tour_list" where it can be stored and called upon again for any future client interested in the same Brewery Tour.
+Final step was to transfer this data back to Postgres, creating a new table called "brewery_tour_list", where it can be stored and called upon again for any future client interested in the same Brewery Tour.
