@@ -18,9 +18,10 @@ Used NYC-AirBNB data from Kaggle (https://www.kaggle.com/dgomonov/new-york-city-
 ### Brewery Data
 The brewery data from Kaggle was imported into a dataframe and all breweries other than those in New York state were filtered out.
 The address (all in one field) was parsed.
-Resulting dataframe was used to create table "ny_breweries" in Postres
+Resulting dataframe was used to create table "ny_breweries" in Postgres
 
-After review of the details we found 4 addresses needed to be scrubbed. The detailed corrections are found in excel spreadsheet "nybrews corrections.xlsx"
+After review of the details we found 4 addresses needed to be scrubbed. The detailed corrections are found in excel spreadsheet "nybrews corrections.xlsx". 
+
 While in excel we further reduced the records in the corrected csv file to only breweries in New York City. 
 This updated file is named "nybrews_4api_file2.csv".
 
