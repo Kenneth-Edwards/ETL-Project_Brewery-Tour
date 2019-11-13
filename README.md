@@ -55,9 +55,9 @@ Transferred data in table "airbnb_rank1" to dataframe "air_rank1_df", MERGED "ai
 From brewsjoined_df2 we used the ".tolist()" method to create lists for the Latitude and Longitude of both the Breweries and AirBnB's on our tour list. We then incorporated the geocordinates with googlemaps again to create two heat maps, one for the breweries and one for the AirBnB's.
 * Heat Map file names are brew_map.htm and airbnb_map.html. Viewable PNG screen shots are available as well (Breweries_HeatMap.png & AirBnB_HeatMap.png).
 
-![Image description](https://github.com/SabaTass/ETL-project/blob/master/Breweries_HeatMap.PNG)
+![Image description](https://github.com/SabaTass/ETL-project/blob/master/Pics/Breweries_HeatMap.PNG)
 
-![Image description](https://github.com/SabaTass/ETL-project/blob/master/AirBnB_HeatMap.PNG)
+![Image description](https://github.com/SabaTass/ETL-project/blob/master/Pics/AirBnB_HeatMap.PNG)
 
 
 ## Load: 
