@@ -63,5 +63,6 @@ From brewsjoined_df2 we used the ".tolist()" method to create lists for the Lati
 ## Load: 
 
 Final step was to transfer this data back to Postgres, creating a new table called "brewery_tour_list", where it can be stored and called upon again for any future client interested in the same Brewery Tour.
-DATA
+
+###DATA
 links to https://github.com/SabaTass/ETL-project/blob/master/SQL_data
