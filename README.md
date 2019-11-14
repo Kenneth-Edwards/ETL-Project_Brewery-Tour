@@ -56,9 +56,9 @@ From brewsjoined_df2 we used the ".tolist()" method to create lists for the Lati
 
 Heat Map file names are brew_map.htm and airbnb_map.html. Viewable PNG screen shots are available as well (Breweries_HeatMap.png & AirBnB_HeatMap.png).
 
-![Image description](https://github.com/SabaTass/ETL-project/blob/master/Breweries_HeatMap.PNG)
+![Image description](https://github.com/SabaTass/ETL-project/blob/master/Pics/Breweries_HeatMap.PNG)
 
-![Image description](https://github.com/SabaTass/ETL-project/blob/master/AirBnB_HeatMap.PNG)
+![Image description](https://github.com/SabaTass/ETL-project/blob/master/Pics/AirBnB_HeatMap.PNG)
 
 
 ## Load: 
