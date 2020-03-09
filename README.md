@@ -1,4 +1,4 @@
-# ETL-project: Brewery-hopping and AirBNB in NY
+# ETL-project: Brewery Tour and AirBNB's in NY
 # Saba Tassawar, Andy Spatz, Kenneth Edwards
 
 ## Project Scenario:
